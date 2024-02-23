@@ -6,6 +6,7 @@ Are you tired of seeing your clothes unused and cluttered around? 😄 Let us as
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployment](#deployment)
 - [Configuration](#configuration)
 - [Features](#features)
 - [Contributing](#contributing)
